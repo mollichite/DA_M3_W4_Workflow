@@ -51,7 +51,7 @@ source venv/bin/activate
 ```
 3. Install requirements.txt file
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 4. Open the superstore_sales_workflow notebook
 5. Follow along the video tutorial
